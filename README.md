@@ -22,13 +22,3 @@ financiers, des contrôles de cohérence et des besoins métiers.
 | [Synthetic Data Statistics](https://github.com/yannisleveneur-lgtm/synthetic-data-statistics) | Étude de tendance centrale, dispersion, loi normale et corrélation | Statistiques, Python |
 | [LoL Tracker](https://github.com/yannisleveneur-lgtm/lol-tracker) | Application web réalisée en équipe ; conception et développement du front-end | HTML, CSS, JavaScript |
 | [Nutrition Scraper Python](https://github.com/yannisleveneur-lgtm/nutrition-scraper-python) | Application orientée objet de collecte et restitution de données nutritionnelles | Python, Beautiful Soup, Flask |
-
-## Ce que je recherche
-
-Une alternance de **Data Analyst** en Île-de-France, dans laquelle je pourrai
-contribuer à la fiabilisation des données, à l'automatisation des reportings et à
-la création d'indicateurs utiles aux équipes métier.
-
-## Me contacter
-
-- [Mes dépôts GitHub](https://github.com/yannisleveneur-lgtm?tab=repositories)
